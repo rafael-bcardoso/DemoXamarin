@@ -1,0 +1,12 @@
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\DemoCamera.deps.json
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\DemoCamera.dll
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\DemoCamera.pdb
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.csprojAssemblyReference.cache
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.AssemblyInfoInputs.cache
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.AssemblyInfo.cs
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.dll
+C:\Users\Rafael\Downloads\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.pdb

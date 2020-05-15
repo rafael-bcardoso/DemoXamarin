@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCpdWw0ypu2GHKqZ5wRC7RTMx3oSFW6FfQ9ALVjGxRKo8zNCrO5IhvWs0vK0EfbCkQdGaOPb6IghOOvI2Y8Vsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Downloads\\Camera-Xamarin.Forms-master\\DemoCamera\\DemoCamera\\DemoCamera\\DemoCamera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\xam.plugin.media\\4.0.1.5\\xam.plugin.media.4.0.1.5.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\xamarin.forms\\3.2.0.839982\\xamarin.forms.3.2.0.839982.nupkg.sha512"
+  ],
+  "logs": []
+}

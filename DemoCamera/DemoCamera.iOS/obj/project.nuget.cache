@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7aana0ULpGqRS1qVPd2hfO081ihAfLvTuakRlPehRC3LtDrg5/0CnJTzg7FzvOR7DIb2KckxxTTTbWHBHuRaZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Downloads\\Camera-Xamarin.Forms-master\\DemoCamera\\DemoCamera\\DemoCamera.iOS\\DemoCamera.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\xam.plugin.media\\4.0.1.5\\xam.plugin.media.4.0.1.5.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\xamarin.forms\\3.2.0.839982\\xamarin.forms.3.2.0.839982.nupkg.sha512"
+  ],
+  "logs": []
+}
